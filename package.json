@@ -1,0 +1,15 @@
+{
+  "name": "whiteboard-overlap",
+  "version": "1.0.0",
+  "description": "determines if events overlap",
+  "main": "overlap.js",
+  "scripts": {
+    "test": "npm install && mocha"
+  },
+  "keywords": [],
+  "author": "john dupper",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
